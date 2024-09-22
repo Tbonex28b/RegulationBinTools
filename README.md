@@ -16,8 +16,6 @@ Modular Design: Users can easily modify scripts and parameters to suit their spe
 
 **Note:** The CSV Extractor W.I.P may not function properly out of the box due to updates in Elden Ring or other factors. Modifications have been made to ensure compatibility with the latest version of the game. Provided all requirements are met and paths are correct, this tool is now fully operational. It is particularly useful for Souls games, especially FromSoftware titles, for extracting and rebuilding `regulation.bin` files. Use this if you cannot utilize DSmapStudio or Smithbox.
 
-This repository is licensed under the MIT License, allowing you to use, modify, and distribute the software freely, provided that you include the same license in any copies of the software you distribute.
-
 ---
 
 ### Changes/Updates:
