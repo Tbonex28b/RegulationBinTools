@@ -81,6 +81,3 @@ Errors typically arise due to incorrect paths or the nonexistence of a modified 
 - **DSMSPortable**: Developed by mountlover.
 - **CSV Extractor W.I.P**: Developed by WindShadowRuins.
 - **Modifications and updates**: Developed by Tbonex28b.
-=======
-# Regulation Bin Utilities
->>>>>>> aad2c90 (Initial commit)
