@@ -1,3 +1,18 @@
+Key Features
+Easy Parameter Management: Simplifies the extraction and merging of regulation.bin files, making it accessible for modders of all skill levels.
+
+Customizable Parameters: Allows users to define which parameters to extract and merge, including options for only modified parameters.
+
+Built-in Logging: Automatically generates detailed logs during extraction and merging processes, helping users troubleshoot issues efficiently.
+
+Compatibility: Specifically designed for Elden Ring and other FromSoftware titles, ensuring functionality across multiple Souls games.
+
+No External Dependencies: Unlike some other tools, it can operate independently of DSmapStudio or Smithbox, providing a standalone solution for regulation file manipulation.
+
+User-Friendly Installation: Streamlined installation process with a simple batch file to set up Python and required libraries, reducing setup complexity.
+
+Modular Design: Users can easily modify scripts and parameters to suit their specific needs, promoting flexibility and customization.
+
 ### Regulation Bin Utilities: Usage Instructions
 
 **Note:** The CSV Extractor W.I.P may not function properly out of the box due to updates in Elden Ring or other factors. Modifications have been made to ensure compatibility with the latest version of the game. Provided all requirements are met and paths are correct, this tool is now fully operational. It is particularly useful for Souls games, especially FromSoftware titles, for extracting and rebuilding `regulation.bin` files. Use this if you cannot utilize DSmapStudio or Smithbox.
