@@ -5,7 +5,7 @@
 ### Changes/Updates:
 - **Import Function:** New functionality for easier import of parameter files into the extraction process.
 - **Optimization:** Enhanced for streamlined modifications of `regulation.bin`, simplifying parameter management and updates.
-- **GUI** Developed a GUI that seamlessly integrates with RegulationBinUtilities (RBU). It is user-friendly and easy to navigate, complete with a Cheat Sheet for quick reference.
+- **Graphical User Interface:** Developed a GUI that seamlessly integrates with RegulationBinUtilities (RBU). It is user-friendly and easy to navigate, complete with a Cheat Sheet for quick reference.
 
 ### Requirements:
 - The provided .rar file named `RegulationMergeToolsv1.0`.
