@@ -6,6 +6,7 @@
 - **Import Function:** Added new functionality for easier and more intuitive importing of parameter files into the extraction process.
 - **Optimization:** Enhanced performance for streamlined modifications of `regulation.bin`, making parameter management and updates significantly simpler.
 - **GUI Enhancements:** With the introduction of `RegulationBinUtilities_GUI` and `Utility_Hub_GUI`, you can now more easily update `regulation.bin` and other related files through a user-friendly interface.
+=======
 
 ### Requirements:
 - The provided `.rar` file named `RegulationMergeTools(version#)`.
